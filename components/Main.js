@@ -6,9 +6,9 @@ const Main = () => {
             <div className="max-w-md mx-auto p-6 border rounded-md">
                 <h1 className="text-4xl font-bold text-center mb-6">C.U.T.S</h1>
                 <p className="text-xl text-center mb-6">
-                   C.U.T.S is an electronic and classical music website that provides information, reviews, and resources for music lovers. 
+                    C.U.T.S is an electronic and classical music website that provides original content and reviews for music lovers.
                 </p>
-                <Image src={img} alt="MotoDidakt logo" className="rounded-full mx-auto mb-6" /> 
+                <Image src={img} alt="MotoDidakt logo" className="rounded-full mx-auto mb-6" />
             </div>
         </div>
     );
